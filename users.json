@@ -1,0 +1,26 @@
+[
+    {
+        "username": "nisa",
+        "password": "$2y$10$taURbOcz.A3oPZeIzSVsE.YUS3MsAs99trJHtzkjVVsBl9ToEoeFO",
+        "profile_name": "Nisa",
+        "profile_image": "uploads\/68e4dcd0ba713_1000145934.jpg",
+        "created_at": "2025-10-07 09:26:40",
+        "user_id": "f59c9d35f92d659fe7f68bd9f60058e0"
+    },
+    {
+        "username": "sandy",
+        "password": "$2y$10$rTi9LsiqYZ.WCKDT5ocfse.NB6kViqqAooEn4nfweyUyX7rBpFbKS",
+        "profile_name": "Sandy",
+        "profile_image": "uploads\/68e4dd4aef550_1000142160.jpg",
+        "created_at": "2025-10-07 09:28:43",
+        "user_id": "02b7f3e3862a50d64f4bf7f70a8d72e2"
+    },
+    {
+        "username": "didi",
+        "password": "$2y$10$Ak7dFIDv1ahNGPovO\/t6T.SF087u4IML52g5s.SUf2UJ0ikvXdjTe",
+        "profile_name": "Didi",
+        "profile_image": "uploads\/68e4e09084f87_1000146761.jpg",
+        "created_at": "2025-10-07 09:42:40",
+        "user_id": "5416844d14e55a2b8ad68e5371fa63d8"
+    }
+]
